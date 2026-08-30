@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas | Suporte de TI | Desenvolvedor`**
 
-Me chamo Nelson Eguiberto, tenho 24 anos e sou natural de São José dos Campos-SP. Conclui o Ensino Técnico de Informática na Escola Ecompo e concluí a Graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP, atualmente sou pós graduando em Análise e Desenvolvimento de Sistemas na PUC-Minas. Sou apaixonado por tecnologia e possuo 3 anos de experiência como Suporte de TI.
+Me chamo Nelson Eguiberto, tenho 25 anos e sou natural de São José dos Campos-SP. Conclui o Ensino Técnico de Informática na Escola Ecompo e concluí a Graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP, atualmente sou pós graduando em Análise e Desenvolvimento de Sistemas na PUC-Minas. Sou apaixonado por tecnologia e possuo 3 anos de experiência como Suporte de TI.
 
 <p align="left">
     <a href="https://github.com/NelsonEguiberto?tab=repositories&sort=stargazers">
